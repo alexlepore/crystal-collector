@@ -1,0 +1,66 @@
+body{
+	background-image: url("../images/school.jpg");
+}
+h1{
+	font-size: 35px;
+	font-weight: bold;
+	width: 285px;
+	background-color: orange;
+	color: white;
+	padding: 20px 5px 20px 5px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#instruct{
+	background-color: #C1CF9A;
+	width: 365px;
+	padding: 20px 5px 60px 5px;
+	color: green;
+	margin-left: 20px;
+}
+#compnumber{
+	background-color: green;
+	float:left;
+	color: violet;
+	padding: 20px 5px 30px 5px;
+	width: 165px;
+	margin-top: 20px;
+	height: 90px;
+	margin-left: 20px;
+	font-size: 45px;
+}
+#scoreboard{
+	float: left;
+	background: #26AED6;
+	padding: 20px 5px 30px 5px;
+	width: 90px;
+	margin-left: 10px;
+	margin-top: 20px;
+	height: 90px;
+	margin-bottom: 20px;
+}
+#crystals{
+	margin-top: 20px;
+	clear:both;
+}
+.crystalImage {
+	height: 111px;
+	margin-left: 20px
+}
+#total_score{
+	
+	padding: 20px 10px 30px 10px;
+	background-color: black;
+	width: 165px;
+	margin-top: 20px;
+	height: 30px;
+	color: white;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	color: violet;
+}
+#Score{
+	font-size: 45px;
+	color: violet;
+}
